@@ -1,4 +1,10 @@
 # generating a team profile
+
+#Link
+Generating team profile demo
+https://youtu.be/4WJuZRuqy2o
+
+
   
   ## License
   ![Github license](https://img.shields.io/badge/license-MIT-yellow.svg)
