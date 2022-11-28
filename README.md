@@ -28,7 +28,7 @@ This project is about generating a user profile within a team. This projects use
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-jest, inquirer (8.2.4 version)
+jest, inquirer (8.2.4 version), path, fs
 ## Usage 
 the app is initiated by writing node index.js and answering the questions.
 ## Contribute
